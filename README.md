@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Ammarah-Asif/Ammarah-Asif/blob/master/images/info.png)
+![MasterHead](https://github.com/Ammarah-Asif/Ammarah-Asif/blob/master/images/profile.png)
 
 <br clear="both">
 <div align="center">
