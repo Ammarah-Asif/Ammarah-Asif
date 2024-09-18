@@ -1,11 +1,10 @@
-![MasterHead](https://github.com/Ammarah-Asif/Ammarah-Asif/blob/master/images/SMAS-Cover.png)
+![MasterHead](https://github.com/Ammarah-Asif/Ammarah-Asif/blob/master/images/info.png)
 
 <br clear="both">
 <div align="center">
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Ammarah-Asif.Ammarah-Asif&"  />
   
-  ![IStandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)
 
 </div>
 
@@ -31,10 +30,10 @@
 <br clear="both">
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
-  <img height="200" src="images/i3.jpg" alt="Dua Image 3" style="margin: 0 20px;" />
-  <img height="200" src="images/i2.jpg" alt="Dua Image 1" style="margin: 0 20px;" />
-  <img height="200" src="images/i1.jpg" alt="Dua Image 2" style="margin: 0 20px;" />
-  <img height="200" src="images/i4.jpg" alt="Dua Image 4" style="margin: 0 20px;" />
+  <img height="200" src="https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/master/images/i3.jpg" alt="Dua Image 3" style="margin: 0 20px;" />
+  <img height="200" src="https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/master/images/i2.jpg" alt="Dua Image 1" style="margin: 0 20px;" />
+  <img height="200" src="https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/master/images/i1.jpg" alt="Dua Image 2" style="margin: 0 20px;" />
+  <img height="200" src="https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/master/images/i4.jpg" alt="Dua Image 4" style="margin: 0 20px;" />
 </div>
 
 
